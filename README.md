@@ -1,0 +1,1 @@
+In this project, I completed beginner level Python projects such as a quiz game, madlibs, a number guessing game, and a timed math challenge. These projects include if statements, getting input from users, as well as while and for loops. 
